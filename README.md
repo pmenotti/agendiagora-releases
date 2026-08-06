@@ -26,14 +26,12 @@ para as notas de cada release.
 - **Financeiro** — contas a pagar, a receber, créditos, cheques e cartões
 - **Salários e Comissões** — comissão por profissional, personalizável por serviço
 - **Relatórios** — aniversariantes, clientes inativos, vendas, lucro e mais
-- **Google Agenda** — cada profissional pode conectar a própria conta Google
-  e sincronizar os horários automaticamente, sem depender de ninguém mais
-  da equipe
-- **Sistema** — preferências, backup do banco de dados, acesso pela web
-- **Assistente de IA** — ajuda dentro do sistema baseada só na documentação
-  própria; nunca lê nem processa dado de cliente, venda ou qualquer
-  informação real do seu negócio, nem na pergunta nem na resposta —
-  desativado por padrão, só liga se o administrador escolher ativar
+- **Google Agenda** — sincroniza os horários com o Google Agenda
+- **Acesso pela Web** — profissional acompanha a própria agenda pelo
+  celular, e cliente pode pedir horário pela internet, sem precisar ligar
+- **Sistema** — preferências, backup do banco de dados
+- **Assistente de IA** — ajuda dentro do próprio sistema, sem acessar
+  dados reais de clientes ou vendas
 
 ## Segmentos de negócio atendidos
 
@@ -49,19 +47,13 @@ automaticamente para o segmento escolhido, sem precisar reinstalar nada.
 ## Já usa outro sistema? Dá pra trazer seus dados
 
 Pagando mensalidade em outro sistema e pensando em trocar pra reduzir
-custo? Você não precisa recomeçar do zero. O AgendIAgora já importa os
-dados do **BelezaSoft** direto pela própria tela (menu **Sistema →
-Restaurar Backup de Outro Sistema**) — clientes, agenda, vendas,
-comissões, estoque e usuários (com a senha migrada automaticamente,
-sem precisar redistribuir senha nova pra ninguém), sem tocar na
-estrutura do banco atual.
+custo? Você não precisa recomeçar do zero. Já é possível trazer os
+dados de quem usava o **BelezaSoft** direto pra dentro do AgendIAgora.
 
-Vem de outro sistema que não seja o BelezaSoft? Fale com a gente. Se
-você já usou o sistema de verdade e gostou do AgendIAgora, avaliamos
-caso a caso se dá pra construir a importação pros seus dados também —
-depende do formato do sistema de origem e do tempo disponível pra
-isso, então não é algo automático nem garantido de cara, mas é
-justamente pra isso que existe o contato abaixo.
+Vem de outro sistema? Fale com a gente. Se você já usou de verdade e
+gostou do AgendIAgora, avaliamos caso a caso se dá pra trazer seus
+dados também — depende do sistema de origem e do tempo disponível, não
+é algo automático, mas é pra isso que existe o contato abaixo.
 
 ## Licença de uso
 
