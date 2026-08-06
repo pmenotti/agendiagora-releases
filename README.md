@@ -26,9 +26,14 @@ para as notas de cada release.
 - **Financeiro** — contas a pagar, a receber, créditos, cheques e cartões
 - **Salários e Comissões** — comissão por profissional, personalizável por serviço
 - **Relatórios** — aniversariantes, clientes inativos, vendas, lucro e mais
+- **Google Agenda** — cada profissional pode conectar a própria conta Google
+  e sincronizar os horários automaticamente, sem depender de ninguém mais
+  da equipe
 - **Sistema** — preferências, backup do banco de dados, acesso pela web
 - **Assistente de IA** — ajuda dentro do sistema baseada só na documentação
-  própria; nunca lê dados de clientes, vendas ou qualquer informação real
+  própria; nunca lê nem processa dado de cliente, venda ou qualquer
+  informação real do seu negócio, nem na pergunta nem na resposta —
+  desativado por padrão, só liga se o administrador escolher ativar
 
 ## Segmentos de negócio atendidos
 
